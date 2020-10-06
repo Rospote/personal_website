@@ -73,29 +73,6 @@
     display: inline-block;
     margin: 6px 0 6px 15px;
 }
-/* ----- Social share ----- */
-.vbox-share{
-    line-height: 28px;
-    font-size: 12px;
-    overflow: hidden;
-    position: fixed;
-    left: 0;
-    z-index: 98;
-    display: flex;
-    align-items:center;
-    justify-content: center;
-    width: 100%;
-    text-align: center;
-}
-.vbox-share svg{
-    max-height: 28px;
-    width: 28px;
-    z-index: 10;
-    margin-left: 12px;
-    margin-top: 6px;
-    margin-bottom: 6px;
-    vertical-align: middle;
-}
 
 
 /* ----- navigation ARROWS ----- */
